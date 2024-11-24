@@ -4,4 +4,4 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 
-![CI](https://github.com/<backsty>/<ahj-deployment>/actions/workflows/web.yml/netology.svg)
+![CI](https://github.com/<backsty>/<ahj-deployment>/actions/workflows/web.yml/d42801982b2f2641f672.svg)
